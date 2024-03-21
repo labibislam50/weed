@@ -1,7 +1,7 @@
 #__________________| INFO |___________________#
 #______SCRIPT ENCRYPTED BY PYTHON 3.0
-#______CODING BY: ASHEKUR RAHAMAN
-#______GITHUB : https://github.com/RX-ASHIK?tab=repositories
+#______CODING BY: LABIB-CYBER
+#______GITHUB : https://github.com/labibislam50?tab=repositories
 #________________| SCRIPT DATA |_____________#
 
 import marshal,zlib,base64
